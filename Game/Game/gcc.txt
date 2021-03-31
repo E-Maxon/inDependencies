@@ -1,0 +1,16 @@
+15
+gcc binutils
+gcc gcc-libs
+gcc libmpc
+binutils glibc
+binutils zlib
+gcc-libs glibc
+libmpc mpfr
+glibc filesystem
+glibc linux-api-headers
+glibc tzdata
+zlib glibc
+mpfr gmp
+filesystem iana-etc
+gmp gcc-libs
+gmp sh

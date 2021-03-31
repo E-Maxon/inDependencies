@@ -1,0 +1,17 @@
+﻿  1.cpp
+c:\users\мсай\source\repos\game\game\1.cpp(37): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\мсай\source\repos\game\game\1.cpp(38): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\мсай\source\repos\game\game\1.cpp(45): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\мсай\source\repos\game\game\1.cpp(47): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\мсай\source\repos\game\game\1.cpp(48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\мсай\source\repos\game\game\1.cpp(83): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\мсай\source\repos\game\game\1.cpp(84): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\мсай\source\repos\game\game\1.cpp(96): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\мсай\source\repos\game\game\1.cpp(102): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\мсай\source\repos\game\game\1.cpp(107): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\мсай\source\repos\game\game\1.cpp(118): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\мсай\source\repos\game\game\1.cpp(174): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\мсай\source\repos\game\game\1.cpp(174): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\мсай\source\repos\game\game\1.cpp(197): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\мсай\source\repos\game\game\1.cpp(308): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Game.vcxproj -> C:\Users\МСАЙ\source\repos\Game\Debug\Game.exe
